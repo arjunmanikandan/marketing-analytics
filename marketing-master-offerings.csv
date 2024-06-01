@@ -1,13 +1,11 @@
-Creator,CreatedOn,Source,Platform,Offering,Unit,Rate,ConversionRate,Quantity,Price,CostPerCustomer,NoOfCustomers,CostOfMarketing,ExpectedConversions,ObservedConversions,Notes
-VC,12/5/2024,Instagram Ads Cost & Marketing Plans,Instagram,,CPM,10,3,3,30,3.333333333,3000,10000,0.00%,,cost per 1000 impressions (post / image)
-VC,18/5/2024,https://www.upgrowth.in/how-much-do-youtube-ads-cost-in-india/,YouTube,Non-skippable Bumper Ads,CPM,14.58,4,,0,3.645,2743,9998,2.00%,,"These are not thumbnails, but five second clips,
-in need of high creativity to tell a story in five seconds,
-a lot cheaper (100x) when compared to other modes, when visibility is the goal."
-VC,18/5/2024,https://www.upgrowth.in/how-much-do-youtube-ads-cost-in-india/,YouTube,Display Ads,CPC,0.6,0.1428571429,,0,4.2,2381,10000,0.00%,,
-VC,12/5/2024,https://www.rankontechnologies.com/smm-packages/instagram-marketing-packages/,Instagram,,CPC,1.725,0.25,,0,6.9,1449,9998,2.00%,,cost per link click
-VC,18/5/2024,https://www.upgrowth.in/how-much-do-youtube-ads-cost-in-india/,YouTube,Skippable Pre-roll Ads,CPV,1.65,0.2,,0,8.25,1212,9999,1.00%,,
-VC,18/5/2024,https://www.upgrowth.in/how-much-do-youtube-ads-cost-in-india/,YouTube,Skippable Mid-roll Ads,CPV,1.5,0.15,,0,10,1000,10000,0.00%,,
-VC,12/5/2024,https://www.rankontechnologies.com/smm-packages/instagram-marketing-packages/,Instagram,,CPV,1.15,0.1,,0,11.5,870,10005,-5.00%,,cost per view (video)
-VC,12/5/2024,https://www.rankontechnologies.com/smm-packages/instagram-marketing-packages/,Instagram,,CPI,65,1,,0,65,154,10010,-10.00%,,cost per install
-VC,12/5/2024,https://www.rankontechnologies.com/smm-packages/instagram-marketing-packages/,Instagram,,CPL,751.75,1,,0,751.75,13,9773,227.00%,,cost per lead
-VC,12/5/2024,https://www.rankontechnologies.com/smm-packages/instagram-marketing-packages/,Instagram,,CPA,1021,1,,0,1021,10,10210,-210.00%,,cost per acquisition
+Unit,Rate,ConversionRate
+CPM,10,3
+CPM,14.58,4
+CPC,0.6,0.1428571429
+CPC,1.725,0.25
+CPV,1.65,0.2
+CPV,1.5,0.15
+CPV,1.15,0.1
+CPI,65,1
+CPL,751.75,1
+CPA,1021,1
